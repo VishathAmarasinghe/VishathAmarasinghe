@@ -49,4 +49,4 @@ pursuing my  B.Sc. Honours in Management and Information Technology at universit
 
 ### Lets connect through:
 <a href="https://www.facebook.com/vishathakila.amarasinghe/"><img src="https://img.icons8.com/fluency/48/000000/meta.png"/></a>
-<a href="www.linkedin.com/in/vishath-amarasinghe"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href="https://www.linkedin.com/in/vishath-amarasinghe/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
