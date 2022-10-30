@@ -9,10 +9,10 @@ pursuing my  B.Sc. Honours in Management and Information Technology at universit
 <img align="right" alt="GIF" src="https://storyset.com/illustration/hand-coding/amico/animate?share=53124" width="500" height="320" />
 
 
-- ✍ You can find my resume here [Resume]
+- ✍ Passonate in Mobile app development and Web development
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 👯 I’m looking to collaborate on open source
-- 📫 Reach out to me: bhumikatewary49@gmail.com
+- 📫 Reach out to me: vishathakila2001@gmail.com
 - ⚡ Fun fact: I know how to play a piano
 
 <br>
