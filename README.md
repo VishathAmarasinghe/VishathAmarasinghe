@@ -6,8 +6,6 @@ pursuing my  B.Sc. Honours in Management and Information Technology at universit
 
 <br>
 
-<img align="right" alt="GIF" src="https://storyset.com/illustration/hand-coding/amico/animate?share=53124/" width="500" height="320" />
-
 
 - ✍ passionate in Mobile App Development and Web Development
 - 🌱 I’m currently learning Data Structures and Algorithms
