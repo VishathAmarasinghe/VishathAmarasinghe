@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vishath Amarasinghe 👩‍💻</h1>
+<h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vishath Amarasinghe 💻</h1>
 <br>
 
 I am an Undergraduate Student
@@ -30,7 +30,6 @@ pursuing my  B.Sc. Honours in Management and Information Technology at universit
     <a href="https://jquery.com/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/></a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
     <a href="https://www.android.com/intl/en_in/" target="_blank"><img src="https://img.icons8.com/color/48/000000/android-os.png"/></a>
-    <a href="https://wordpress.com/"><img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/></a>
 </p>
 
 <br>
@@ -41,7 +40,7 @@ pursuing my  B.Sc. Honours in Management and Information Technology at universit
 ### 📊 My Github Stats:
 <br/>
 
-<img alt="Bhumika Tewary's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumikatewary&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<img alt="Vishath's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishathamarasinghe&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhumikatewary&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br> -->
