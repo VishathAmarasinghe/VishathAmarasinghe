@@ -34,7 +34,7 @@ pursuing my  B.Sc. Honours in Management and Information Technology at universit
 
 
 <br>
-
+<!--
 ### 📊 My Github Stats:
 <br/>
 
@@ -43,7 +43,7 @@ pursuing my  B.Sc. Honours in Management and Information Technology at universit
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhumikatewary&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br> -->
 
-
+-->
 ### Lets connect through:
 <a href="https://www.facebook.com/vishathakila.amarasinghe/"><img src="https://img.icons8.com/fluency/48/000000/meta.png"/></a>
 <a href="https://www.linkedin.com/in/vishath-amarasinghe/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
