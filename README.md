@@ -2,7 +2,7 @@
 <br>
 
 I am an Undergraduate Student
-pursuing my  B.Sc. Honours in Management and Information Technology at university of kelaniya Sri Lanka.
+pursuing my  B.Sc. Honours in Information Technology at university of kelaniya Sri Lanka.
 
 <br>
 
