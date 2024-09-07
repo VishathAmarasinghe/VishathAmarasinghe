@@ -1,8 +1,7 @@
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vishath Amarasinghe 💻</h1>
 <br>
 
-I am an Undergraduate Student
-pursuing my  B.Sc. Honours in Information Technology at university of kelaniya Sri Lanka.
+
 
 <br>
 
