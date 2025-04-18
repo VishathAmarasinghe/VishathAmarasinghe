@@ -18,7 +18,7 @@ Visit my porfolio: <a href="https://vishathamarasinghe.com/">https://vishathamar
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/vishath-amarasinghe/"><img src="https://img.shields.io/badge/-Vishath%20Amarasinghe-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<!-- <a href="https://www.linkedin.com/in/vishath-amarasinghe/"><img src="https://img.shields.io/badge/-Vishath%20Amarasinghe-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> -->
 <a href="mailto:vishathakila2001@gmail.com"><img src="https://img.shields.io/badge/-vishathakila2001@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
